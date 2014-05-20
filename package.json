@@ -1,0 +1,12 @@
+{
+    "name": "ncaabb-scraper",
+    "version": "0.0.1",
+    "description": "Scraper for NCAA basketball",
+    "main": "server.js",
+    "author": "Alex Voerman",
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+    }
+}
