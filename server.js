@@ -23,7 +23,7 @@ app.get('/rpidata', function(req, res) {
 
                 //we have to use the <td> position since theres no classes on the table
                 team = {
-                    rpi: tds.eq(0).text(),
+                    rpi: parseInt(tds.eq(0).text()),
                     name: tds.eq(1).text(),
                     conference: tds.eq(4).text(),
                     record: tds.eq(3).text()
