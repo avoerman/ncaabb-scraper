@@ -5,6 +5,10 @@ NCAA Basketball Data Scraper
 
 Outputs data to /data directory on request.
 
+Start server on port 3000 with a simple
+
+'''node app''''
+
 ### RPI Data
 * Uses http://www.rpiforecast.com/live-rpi.html RPI Forecast Data
 * Scrape by getting http://localhost:3000/rpidata

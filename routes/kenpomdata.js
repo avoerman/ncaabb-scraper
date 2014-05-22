@@ -1,6 +1,6 @@
-var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
+var dumptojson = require('../lib/dump-to-json.js');
 
 module.exports = {
     '/kenpomdata': function(req, res) {
@@ -25,9 +25,7 @@ module.exports = {
                 });
 
                 //write the data to a json file
-                fs.writeFile('./data/kenpomdata.json', JSON.stringify(teams, null, 0), function(err) {
-                    if (err) console.log('Error writing file');
-                });
+                dumptojson.dump(teams, 'kenpomdata.json');
 
                 res.send(teams);
             }
