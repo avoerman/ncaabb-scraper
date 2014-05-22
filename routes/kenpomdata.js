@@ -25,7 +25,7 @@ module.exports = {
                 });
 
                 //write the data to a json file
-                fs.writeFile('../data/kenpomdata.json', JSON.stringify(teams, null, 0), function(err) {
+                fs.writeFile('./data/kenpomdata.json', JSON.stringify(teams, null, 0), function(err) {
                     if (err) console.log('Error writing file');
                 });
 

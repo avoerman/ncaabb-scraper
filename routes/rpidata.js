@@ -29,7 +29,7 @@ module.exports = {
                 });
 
                 //write the data to a json file
-                fs.writeFile('../data/rpidata.json', JSON.stringify(teams, null, 0), function(err) {
+                fs.writeFile('./data/rpidata.json', JSON.stringify(teams, null, 0), function(err) {
                     if (err) console.log('Error writing file');
                 });
 
