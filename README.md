@@ -23,3 +23,8 @@ Start server on port 3000 with a simple
 * Uses http://espn.go.com/mens-college-basketball/bpi ESPN BPI Data
 * Scrape by getting http://localhost:3000/bpidata
 * Outputs json file to '/data/bpidata.json'
+
+### Bracket Matrix Data
+* Uses http://bracketmatrix.com/ Bracket Matrix Data
+* Scrape by getting http://localhost:3000/bracketmatrixdata
+* Outputs json file to '/data/bracketmatrixdata.json'
