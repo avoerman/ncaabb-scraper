@@ -1,1405 +1,1756 @@
 [{
     "name": "Abilene Christian",
     "bpi_name": "Abilene Christian",
-    "kpom_name": "Abilene Christian"
+    "kpom_name": "Abilene Christian",
+    "bm_name": null
 }, {
     "name": "Air Force",
     "bpi_name": "Air Force",
-    "kpom_name": "Air Force"
+    "kpom_name": "Air Force",
+    "bm_name": null
 }, {
     "name": "Akron",
     "bpi_name": "Akron",
-    "kpom_name": "Akron"
+    "kpom_name": "Akron",
+    "bm_name": null
 }, {
     "name": "Alabama",
     "bpi_name": "Alabama",
-    "kpom_name": "Alabama"
+    "kpom_name": "Alabama",
+    "bm_name": null
 }, {
     "name": "Alabama A&M",
     "bpi_name": "Alabama A&M",
-    "kpom_name": "Alabama A&M"
+    "kpom_name": "Alabama A&M",
+    "bm_name": null
 }, {
     "name": "Alabama St.",
     "bpi_name": "Alabama State",
-    "kpom_name": "Alabama St."
+    "kpom_name": "Alabama St.",
+    "bm_name": null
 }, {
     "name": "Albany",
     "bpi_name": "Albany",
-    "kpom_name": "Albany"
+    "kpom_name": "Albany",
+    "bm_name": "Albany"
 }, {
     "name": "Alcorn St.",
     "bpi_name": "Alcorn State",
-    "kpom_name": "Alcorn St."
+    "kpom_name": "Alcorn St.",
+    "bm_name": null
 }, {
     "name": "American",
     "bpi_name": "American U",
-    "kpom_name": "American"
+    "kpom_name": "American",
+    "bm_name": "American"
 }, {
     "name": "Appalachian St.",
     "bpi_name": "Appalachian St",
-    "kpom_name": "Appalachian St."
+    "kpom_name": "Appalachian St.",
+    "bm_name": null
 }, {
     "name": "Arizona",
     "bpi_name": "Arizona",
-    "kpom_name": "Arizona"
+    "kpom_name": "Arizona",
+    "bm_name": "Arizona"
 }, {
     "name": "Arizona St.",
     "bpi_name": "Arizona State",
-    "kpom_name": "Arizona St."
+    "kpom_name": "Arizona St.",
+    "bm_name": "Arizona State"
 }, {
     "name": "Arkansas",
     "bpi_name": "Arkansas",
-    "kpom_name": "Arkansas"
+    "kpom_name": "Arkansas",
+    "bm_name": null
 }, {
     "name": "Arkansas Little Rock",
     "bpi_name": "AR-Little Rock",
-    "kpom_name": "Arkansas Little Rock"
+    "kpom_name": "Arkansas Little Rock",
+    "bm_name": null
 }, {
     "name": "Arkansas Pine Bluff",
     "bpi_name": "AR-Pine Bluff",
-    "kpom_name": "Arkansas Pine Bluff"
+    "kpom_name": "Arkansas Pine Bluff",
+    "bm_name": null
 }, {
     "name": "Arkansas St.",
     "bpi_name": "Arkansas State",
-    "kpom_name": "Arkansas St."
+    "kpom_name": "Arkansas St.",
+    "bm_name": null
 }, {
     "name": "Army",
     "bpi_name": "Army",
-    "kpom_name": "Army"
+    "kpom_name": "Army",
+    "bm_name": null
 }, {
     "name": "Auburn",
     "bpi_name": "Auburn",
-    "kpom_name": "Auburn"
+    "kpom_name": "Auburn",
+    "bm_name": null
 }, {
     "name": "Austin Peay",
     "bpi_name": "Austin Peay",
-    "kpom_name": "Austin Peay"
+    "kpom_name": "Austin Peay",
+    "bm_name": null
 }, {
     "name": "BYU",
     "bpi_name": "BYU",
-    "kpom_name": "BYU"
+    "kpom_name": "BYU",
+    "bm_name": "BYU"
 }, {
     "name": "Ball St.",
     "bpi_name": "Ball State",
-    "kpom_name": "Ball St."
+    "kpom_name": "Ball St.",
+    "bm_name": null
 }, {
     "name": "Baylor",
     "bpi_name": "Baylor",
-    "kpom_name": "Baylor"
+    "kpom_name": "Baylor",
+    "bm_name": "Baylor"
 }, {
     "name": "Belmont",
     "bpi_name": "Belmont",
-    "kpom_name": "Belmont"
+    "kpom_name": "Belmont",
+    "bm_name": "Belmont"
 }, {
     "name": "Bethune Cookman",
     "bpi_name": "Bethune-Cookman",
-    "kpom_name": "Bethune Cookman"
+    "kpom_name": "Bethune Cookman",
+    "bm_name": null
 }, {
     "name": "Binghamton",
     "bpi_name": "Binghamton",
-    "kpom_name": "Binghamton"
+    "kpom_name": "Binghamton",
+    "bm_name": null
 }, {
     "name": "Boise St.",
     "bpi_name": "Boise State",
-    "kpom_name": "Boise St."
+    "kpom_name": "Boise St.",
+    "bm_name": null
 }, {
     "name": "Boston College",
     "bpi_name": "Boston College",
-    "kpom_name": "Boston College"
+    "kpom_name": "Boston College",
+    "bm_name": null
 }, {
     "name": "Boston University",
     "bpi_name": "Boston U",
-    "kpom_name": "Boston University"
+    "kpom_name": "Boston University",
+    "bm_name": null
 }, {
     "name": "Bowling Green",
     "bpi_name": "Bowling Green",
-    "kpom_name": "Bowling Green"
+    "kpom_name": "Bowling Green",
+    "bm_name": null
 }, {
     "name": "Bradley",
     "bpi_name": "Bradley",
-    "kpom_name": "Bradley"
+    "kpom_name": "Bradley",
+    "bm_name": null
 }, {
     "name": "Brown",
     "bpi_name": "Brown",
-    "kpom_name": "Brown"
+    "kpom_name": "Brown",
+    "bm_name": null
 }, {
     "name": "Bryant",
     "bpi_name": "Bryant",
-    "kpom_name": "Bryant"
+    "kpom_name": "Bryant",
+    "bm_name": null
 }, {
     "name": "Bucknell",
     "bpi_name": "Bucknell",
-    "kpom_name": "Bucknell"
+    "kpom_name": "Bucknell",
+    "bm_name": null
 }, {
     "name": "Buffalo",
     "bpi_name": "Buffalo",
-    "kpom_name": "Buffalo"
+    "kpom_name": "Buffalo",
+    "bm_name": null
 }, {
     "name": "Butler",
     "bpi_name": "Butler",
-    "kpom_name": "Butler"
+    "kpom_name": "Butler",
+    "bm_name": null
 }, {
     "name": "Cal Poly",
     "bpi_name": "Cal Poly",
-    "kpom_name": "Cal Poly"
+    "kpom_name": "Cal Poly",
+    "bm_name": "Cal Poly"
 }, {
     "name": "Cal St. Bakersfield",
     "bpi_name": "CS Fullerton",
-    "kpom_name": "Cal St. Bakersfield"
+    "kpom_name": "Cal St. Bakersfield",
+    "bm_name": null
 }, {
     "name": "Cal St. Fullerton",
     "bpi_name": "CSU Bakersfield",
-    "kpom_name": "Cal St. Fullerton"
+    "kpom_name": "Cal St. Fullerton",
+    "bm_name": null
 }, {
     "name": "Cal St. Northridge",
     "bpi_name": "CS Northridge",
-    "kpom_name": "Cal St. Northridge"
+    "kpom_name": "Cal St. Northridge",
+    "bm_name": null
 }, {
     "name": "California",
     "bpi_name": "California",
-    "kpom_name": "California"
+    "kpom_name": "California",
+    "bm_name": "California"
 }, {
     "name": "Campbell",
     "bpi_name": "Campbell",
-    "kpom_name": "Campbell"
+    "kpom_name": "Campbell",
+    "bm_name": null
 }, {
     "name": "Canisius",
     "bpi_name": "Canisius",
-    "kpom_name": "Canisius"
+    "kpom_name": "Canisius",
+    "bm_name": null
 }, {
     "name": "Central Arkansas",
     "bpi_name": "Cent Arkansas",
-    "kpom_name": "Central Arkansas"
+    "kpom_name": "Central Arkansas",
+    "bm_name": null
 }, {
     "name": "Central Connecticut",
     "bpi_name": "Cent Conn St",
-    "kpom_name": "Central Connecticut"
+    "kpom_name": "Central Connecticut",
+    "bm_name": null
 }, {
     "name": "Central Michigan",
     "bpi_name": "Cent Michigan",
-    "kpom_name": "Central Michigan"
+    "kpom_name": "Central Michigan",
+    "bm_name": null
 }, {
     "name": "Charleston Southern",
     "bpi_name": "Charl Southern",
-    "kpom_name": "Charleston Southern"
+    "kpom_name": "Charleston Southern",
+    "bm_name": null
 }, {
     "name": "Charlotte",
     "bpi_name": "Charlotte",
-    "kpom_name": "Charlotte"
+    "kpom_name": "Charlotte",
+    "bm_name": null
 }, {
     "name": "Chattanooga",
     "bpi_name": "Chattanooga",
-    "kpom_name": "Chattanooga"
+    "kpom_name": "Chattanooga",
+    "bm_name": null
 }, {
     "name": "Chicago St.",
     "bpi_name": "Chicago State",
-    "kpom_name": "Chicago St."
+    "kpom_name": "Chicago St.",
+    "bm_name": null
 }, {
     "name": "Cincinnati",
     "bpi_name": "Cincinnati",
-    "kpom_name": "Cincinnati"
+    "kpom_name": "Cincinnati",
+    "bm_name": "Cincinnati"
 }, {
     "name": "Clemson",
     "bpi_name": "Clemson",
-    "kpom_name": "Clemson"
+    "kpom_name": "Clemson",
+    "bm_name": null
 }, {
     "name": "Cleveland St.",
     "bpi_name": "Cleveland State",
-    "kpom_name": "Cleveland St."
+    "kpom_name": "Cleveland St.",
+    "bm_name": null
 }, {
     "name": "Coastal Carolina",
     "bpi_name": "Coast Carolina",
-    "kpom_name": "Coastal Carolina"
+    "kpom_name": "Coastal Carolina",
+    "bm_name": "Coastal Carolina"
 }, {
     "name": "Colgate",
     "bpi_name": "Colgate",
-    "kpom_name": "Colgate"
+    "kpom_name": "Colgate",
+    "bm_name": null
 }, {
     "name": "College of Charleston",
     "bpi_name": "Charleston",
-    "kpom_name": "College of Charleston"
+    "kpom_name": "College of Charleston",
+    "bm_name": null
 }, {
     "name": "Colorado",
     "bpi_name": "Colorado",
-    "kpom_name": "Colorado"
+    "kpom_name": "Colorado",
+    "bm_name": "Colorado"
 }, {
     "name": "Colorado St.",
     "bpi_name": "Colorado State",
-    "kpom_name": "Colorado St."
+    "kpom_name": "Colorado St.",
+    "bm_name": null
 }, {
     "name": "Columbia",
     "bpi_name": "Columbia",
-    "kpom_name": "Columbia"
+    "kpom_name": "Columbia",
+    "bm_name": null
 }, {
     "name": "Connecticut",
     "bpi_name": "Connecticut",
-    "kpom_name": "Connecticut"
+    "kpom_name": "Connecticut",
+    "bm_name": "Connecticut"
 }, {
     "name": "Coppin St.",
     "bpi_name": "Coppin State",
-    "kpom_name": "Coppin St."
+    "kpom_name": "Coppin St.",
+    "bm_name": null
 }, {
     "name": "Cornell",
     "bpi_name": "Cornell",
-    "kpom_name": "Cornell"
+    "kpom_name": "Cornell",
+    "bm_name": null
 }, {
     "name": "Creighton",
     "bpi_name": "Creighton",
-    "kpom_name": "Creighton"
+    "kpom_name": "Creighton",
+    "bm_name": "Creighton"
 }, {
     "name": "Dartmouth",
     "bpi_name": "Dartmouth",
-    "kpom_name": "Dartmouth"
+    "kpom_name": "Dartmouth",
+    "bm_name": null
 }, {
     "name": "Davidson",
     "bpi_name": "Davidson",
-    "kpom_name": "Davidson"
+    "kpom_name": "Davidson",
+    "bm_name": null
 }, {
     "name": "Dayton",
     "bpi_name": "Dayton",
-    "kpom_name": "Dayton"
+    "kpom_name": "Dayton",
+    "bm_name": "Dayton"
 }, {
     "name": "DePaul",
     "bpi_name": "DePaul",
-    "kpom_name": "DePaul"
+    "kpom_name": "DePaul",
+    "bm_name": null
 }, {
     "name": "Delaware",
     "bpi_name": "Delaware",
-    "kpom_name": "Delaware"
+    "kpom_name": "Delaware",
+    "bm_name": "Delaware"
 }, {
     "name": "Delaware St.",
     "bpi_name": "Delaware State",
-    "kpom_name": "Delaware St."
+    "kpom_name": "Delaware St.",
+    "bm_name": null
 }, {
     "name": "Denver",
     "bpi_name": "Denver",
-    "kpom_name": "Denver"
+    "kpom_name": "Denver",
+    "bm_name": null
 }, {
     "name": "Detroit",
     "bpi_name": "Detroit",
-    "kpom_name": "Detroit"
+    "kpom_name": "Detroit",
+    "bm_name": null
 }, {
     "name": "Drake",
     "bpi_name": "Drake",
-    "kpom_name": "Drake"
+    "kpom_name": "Drake",
+    "bm_name": null
 }, {
     "name": "Drexel",
     "bpi_name": "Drexel",
-    "kpom_name": "Drexel"
+    "kpom_name": "Drexel",
+    "bm_name": null
 }, {
     "name": "Duke",
     "bpi_name": "Duke",
-    "kpom_name": "Duke"
+    "kpom_name": "Duke",
+    "bm_name": "Duke"
 }, {
     "name": "Duquesne",
     "bpi_name": "Duquesne",
-    "kpom_name": "Duquesne"
+    "kpom_name": "Duquesne",
+    "bm_name": null
 }, {
     "name": "East Carolina",
     "bpi_name": "East Carolina",
-    "kpom_name": "East Carolina"
+    "kpom_name": "East Carolina",
+    "bm_name": null
 }, {
     "name": "East Tennessee St.",
     "bpi_name": "East Tenn St",
-    "kpom_name": "East Tennessee St."
+    "kpom_name": "East Tennessee St.",
+    "bm_name": null
 }, {
     "name": "Eastern Illinois",
     "bpi_name": "E Illinois",
-    "kpom_name": "Eastern Illinois"
+    "kpom_name": "Eastern Illinois",
+    "bm_name": null
 }, {
     "name": "Eastern Kentucky",
     "bpi_name": "E Kentucky",
-    "kpom_name": "Eastern Kentucky"
+    "kpom_name": "Eastern Kentucky",
+    "bm_name": "Eastern Kentucky"
 }, {
     "name": "Eastern Michigan",
     "bpi_name": "E Michigan",
-    "kpom_name": "Eastern Michigan"
+    "kpom_name": "Eastern Michigan",
+    "bm_name": null
 }, {
     "name": "Eastern Washington",
     "bpi_name": "E Washington",
-    "kpom_name": "Eastern Washington"
+    "kpom_name": "Eastern Washington",
+    "bm_name": null
 }, {
     "name": "Elon",
     "bpi_name": "Elon",
-    "kpom_name": "Elon"
+    "kpom_name": "Elon",
+    "bm_name": null
 }, {
     "name": "Evansville",
     "bpi_name": "Evansville",
-    "kpom_name": "Evansville"
+    "kpom_name": "Evansville",
+    "bm_name": null
 }, {
     "name": "FIU",
     "bpi_name": "FIU",
-    "kpom_name": "FIU"
+    "kpom_name": "FIU",
+    "bm_name": null
 }, {
     "name": "Fairfield",
     "bpi_name": "Fairfield",
-    "kpom_name": "Fairfield"
+    "kpom_name": "Fairfield",
+    "bm_name": null
 }, {
     "name": "Fairleigh Dickinson",
     "bpi_name": "Fair Dickinson",
-    "kpom_name": "Fairleigh Dickinson"
+    "kpom_name": "Fairleigh Dickinson",
+    "bm_name": null
 }, {
     "name": "Florida",
     "bpi_name": "Florida",
-    "kpom_name": "Florida"
+    "kpom_name": "Florida",
+    "bm_name": "Florida"
 }, {
     "name": "Florida A&M",
     "bpi_name": "Florida A&M",
-    "kpom_name": "Florida A&M"
+    "kpom_name": "Florida A&M",
+    "bm_name": null
 }, {
     "name": "Florida Atlantic",
     "bpi_name": "Florida Atl",
-    "kpom_name": "Florida Atlantic"
+    "kpom_name": "Florida Atlantic",
+    "bm_name": null
 }, {
     "name": "Florida Gulf Coast",
     "bpi_name": "FGCU",
-    "kpom_name": "Florida Gulf Coast"
+    "kpom_name": "Florida Gulf Coast",
+    "bm_name": null
 }, {
     "name": "Florida St.",
     "bpi_name": "Florida State",
-    "kpom_name": "Florida St."
+    "kpom_name": "Florida St.",
+    "bm_name": "Florida State"
 }, {
     "name": "Fordham",
     "bpi_name": "Fordham",
-    "kpom_name": "Fordham"
+    "kpom_name": "Fordham",
+    "bm_name": null
 }, {
     "name": "Fresno St.",
     "bpi_name": "Fresno State",
-    "kpom_name": "Fresno St."
+    "kpom_name": "Fresno St.",
+    "bm_name": null
 }, {
     "name": "Furman",
     "bpi_name": "Furman",
-    "kpom_name": "Furman"
+    "kpom_name": "Furman",
+    "bm_name": null
 }, {
     "name": "Gardner Webb",
     "bpi_name": "Gardner-Webb",
-    "kpom_name": "Gardner Webb"
+    "kpom_name": "Gardner Webb",
+    "bm_name": null
 }, {
     "name": "George Mason",
     "bpi_name": "George Mason",
-    "kpom_name": "George Mason"
+    "kpom_name": "George Mason",
+    "bm_name": null
 }, {
     "name": "George Washington",
     "bpi_name": "G. Washington",
-    "kpom_name": "George Washington"
+    "kpom_name": "George Washington",
+    "bm_name": "George Washington"
 }, {
     "name": "Georgetown",
     "bpi_name": "Georgetown",
-    "kpom_name": "Georgetown"
+    "kpom_name": "Georgetown",
+    "bm_name": null
 }, {
     "name": "Georgia",
     "bpi_name": "Georgia",
-    "kpom_name": "Georgia"
+    "kpom_name": "Georgia",
+    "bm_name": null
 }, {
     "name": "Georgia Southern",
     "bpi_name": "Ga. Southern",
-    "kpom_name": "Georgia Southern"
+    "kpom_name": "Georgia Southern",
+    "bm_name": null
 }, {
     "name": "Georgia St.",
     "bpi_name": "Georgia State",
-    "kpom_name": "Georgia St."
+    "kpom_name": "Georgia St.",
+    "bm_name": null
 }, {
     "name": "Georgia Tech",
     "bpi_name": "Georgia Tech",
-    "kpom_name": "Georgia Tech"
+    "kpom_name": "Georgia Tech",
+    "bm_name": null
 }, {
     "name": "Gonzaga",
     "bpi_name": "Gonzaga",
-    "kpom_name": "Gonzaga"
+    "kpom_name": "Gonzaga",
+    "bm_name": "Gonzaga"
 }, {
     "name": "Grambling St.",
     "bpi_name": "Grambling St",
-    "kpom_name": "Grambling St."
+    "kpom_name": "Grambling St.",
+    "bm_name": null
 }, {
     "name": "Grand Canyon",
     "bpi_name": "Grand Canyon",
-    "kpom_name": "Grand Canyon"
+    "kpom_name": "Grand Canyon",
+    "bm_name": null
 }, {
     "name": "Green Bay",
     "bpi_name": "Green Bay",
-    "kpom_name": "Green Bay"
+    "kpom_name": "Green Bay",
+    "bm_name": "Wisconsin-Green Bay"
 }, {
     "name": "Hampton",
     "bpi_name": "Hampton",
-    "kpom_name": "Hampton"
+    "kpom_name": "Hampton",
+    "bm_name": null
 }, {
     "name": "Hartford",
     "bpi_name": "Hartford",
-    "kpom_name": "Hartford"
+    "kpom_name": "Hartford",
+    "bm_name": null
 }, {
     "name": "Harvard",
     "bpi_name": "Harvard",
-    "kpom_name": "Harvard"
+    "kpom_name": "Harvard",
+    "bm_name": "Harvard"
 }, {
     "name": "Hawaii",
     "bpi_name": "Hawaii",
-    "kpom_name": "Hawaii"
+    "kpom_name": "Hawaii",
+    "bm_name": null
 }, {
     "name": "High Point",
     "bpi_name": "High Point",
-    "kpom_name": "High Point"
+    "kpom_name": "High Point",
+    "bm_name": null
 }, {
     "name": "Hofstra",
     "bpi_name": "Hofstra",
-    "kpom_name": "Hofstra"
+    "kpom_name": "Hofstra",
+    "bm_name": null
 }, {
     "name": "Holy Cross",
     "bpi_name": "Holy Cross",
-    "kpom_name": "Holy Cross"
+    "kpom_name": "Holy Cross",
+    "bm_name": null
 }, {
     "name": "Houston",
     "bpi_name": "Houston",
-    "kpom_name": "Houston"
+    "kpom_name": "Houston",
+    "bm_name": null
 }, {
     "name": "Houston Baptist",
     "bpi_name": "Houston Baptist",
-    "kpom_name": "Houston Baptist"
+    "kpom_name": "Houston Baptist",
+    "bm_name": null
 }, {
     "name": "Howard",
     "bpi_name": "Howard",
-    "kpom_name": "Howard"
+    "kpom_name": "Howard",
+    "bm_name": null
 }, {
     "name": "IPFW",
     "bpi_name": "IPFW",
-    "kpom_name": "IPFW"
+    "kpom_name": "IPFW",
+    "bm_name": null
 }, {
     "name": "IUPUI",
     "bpi_name": "IUPUI",
-    "kpom_name": "IUPUI"
+    "kpom_name": "IUPUI",
+    "bm_name": null
 }, {
     "name": "Idaho",
     "bpi_name": "Idaho",
-    "kpom_name": "Idaho"
+    "kpom_name": "Idaho",
+    "bm_name": null
 }, {
     "name": "Idaho St.",
     "bpi_name": "Idaho State",
-    "kpom_name": "Idaho St."
+    "kpom_name": "Idaho St.",
+    "bm_name": null
 }, {
     "name": "Illinois",
     "bpi_name": "Illinois",
-    "kpom_name": "Illinois"
+    "kpom_name": "Illinois",
+    "bm_name": null
 }, {
     "name": "Illinois St.",
     "bpi_name": "Illinois State",
-    "kpom_name": "Illinois St."
+    "kpom_name": "Illinois St.",
+    "bm_name": null
 }, {
     "name": "Incarnate Word",
     "bpi_name": "Incarnate Word",
-    "kpom_name": "Incarnate Word"
+    "kpom_name": "Incarnate Word",
+    "bm_name": null
 }, {
     "name": "Indiana",
     "bpi_name": "Indiana",
-    "kpom_name": "Indiana"
+    "kpom_name": "Indiana",
+    "bm_name": null
 }, {
     "name": "Indiana St.",
     "bpi_name": "Indiana State",
-    "kpom_name": "Indiana St."
+    "kpom_name": "Indiana St.",
+    "bm_name": null
 }, {
     "name": "Iona",
     "bpi_name": "Iona",
-    "kpom_name": "Iona"
+    "kpom_name": "Iona",
+    "bm_name": null
 }, {
     "name": "Iowa",
     "bpi_name": "Iowa",
-    "kpom_name": "Iowa"
+    "kpom_name": "Iowa",
+    "bm_name": "Iowa"
 }, {
     "name": "Iowa St.",
     "bpi_name": "Iowa State",
-    "kpom_name": "Iowa St."
+    "kpom_name": "Iowa St.",
+    "bm_name": "Iowa State"
 }, {
     "name": "Jackson St.",
     "bpi_name": "Jackson State",
-    "kpom_name": "Jackson St."
+    "kpom_name": "Jackson St.",
+    "bm_name": null
 }, {
     "name": "Jacksonville",
     "bpi_name": "Jacksonville",
-    "kpom_name": "Jacksonville"
+    "kpom_name": "Jacksonville",
+    "bm_name": null
 }, {
     "name": "Jacksonville St.",
     "bpi_name": "Jacksonville St",
-    "kpom_name": "Jacksonville St."
+    "kpom_name": "Jacksonville St.",
+    "bm_name": null
 }, {
     "name": "James Madison",
     "bpi_name": "James Madison",
-    "kpom_name": "James Madison"
+    "kpom_name": "James Madison",
+    "bm_name": null
 }, {
     "name": "Kansas",
     "bpi_name": "Kansas",
-    "kpom_name": "Kansas"
+    "kpom_name": "Kansas",
+    "bm_name": "Kansas"
 }, {
     "name": "Kansas St.",
     "bpi_name": "Kansas State",
-    "kpom_name": "Kansas St."
+    "kpom_name": "Kansas St.",
+    "bm_name": "Kansas State"
 }, {
     "name": "Kennesaw St.",
     "bpi_name": "Kennesaw State",
-    "kpom_name": "Kennesaw St."
+    "kpom_name": "Kennesaw St.",
+    "bm_name": null
 }, {
     "name": "Kent St.",
     "bpi_name": "Kent State",
-    "kpom_name": "Kent St."
+    "kpom_name": "Kent St.",
+    "bm_name": null
 }, {
     "name": "Kentucky",
     "bpi_name": "Kentucky",
-    "kpom_name": "Kentucky"
+    "kpom_name": "Kentucky",
+    "bm_name": "Kentucky"
 }, {
     "name": "LIU Brooklyn",
     "bpi_name": "LIU Brooklyn",
-    "kpom_name": "LIU Brooklyn"
+    "kpom_name": "LIU Brooklyn",
+    "bm_name": null
 }, {
     "name": "LSU",
     "bpi_name": "LSU",
-    "kpom_name": "LSU"
+    "kpom_name": "LSU",
+    "bm_name": null
 }, {
     "name": "La Salle",
     "bpi_name": "La Salle",
-    "kpom_name": "La Salle"
+    "kpom_name": "La Salle",
+    "bm_name": null
 }, {
     "name": "Lafayette",
     "bpi_name": "Lafayette",
-    "kpom_name": "Lafayette"
+    "kpom_name": "Lafayette",
+    "bm_name": "Louisiana-Lafayette"
 }, {
     "name": "Lamar",
     "bpi_name": "Lamar",
-    "kpom_name": "Lamar"
+    "kpom_name": "Lamar",
+    "bm_name": null
 }, {
     "name": "Lehigh",
     "bpi_name": "Lehigh",
-    "kpom_name": "Lehigh"
+    "kpom_name": "Lehigh",
+    "bm_name": null
 }, {
     "name": "Liberty",
     "bpi_name": "Liberty",
-    "kpom_name": "Liberty"
+    "kpom_name": "Liberty",
+    "bm_name": null
 }, {
     "name": "Lipscomb",
     "bpi_name": "Lipscomb",
-    "kpom_name": "Lipscomb"
+    "kpom_name": "Lipscomb",
+    "bm_name": null
 }, {
     "name": "Long Beach St.",
     "bpi_name": "Long Beach St",
-    "kpom_name": "Long Beach St."
+    "kpom_name": "Long Beach St.",
+    "bm_name": null
 }, {
     "name": "Longwood",
     "bpi_name": "Longwood",
-    "kpom_name": "Longwood"
+    "kpom_name": "Longwood",
+    "bm_name": null
 }, {
     "name": "Louisiana Lafayette",
     "bpi_name": "LA-Lafayette",
-    "kpom_name": "Louisiana Lafayette"
+    "kpom_name": "Louisiana Lafayette",
+    "bm_name": null
 }, {
     "name": "Louisiana Monroe",
     "bpi_name": "UL Monroe",
-    "kpom_name": "Louisiana Monroe"
+    "kpom_name": "Louisiana Monroe",
+    "bm_name": null
 }, {
     "name": "Louisiana Tech",
     "bpi_name": "Louisiana Tech",
-    "kpom_name": "Louisiana Tech"
+    "kpom_name": "Louisiana Tech",
+    "bm_name": "Louisiana Tech"
 }, {
     "name": "Louisville",
     "bpi_name": "Louisville",
-    "kpom_name": "Louisville"
+    "kpom_name": "Louisville",
+    "bm_name": "Louisville"
 }, {
     "name": "Loyola Chicago",
     "bpi_name": "Loyola (IL)",
-    "kpom_name": "Loyola Chicago"
+    "kpom_name": "Loyola Chicago",
+    "bm_name": null
 }, {
     "name": "Loyola MD",
     "bpi_name": "Loyola (MD)",
-    "kpom_name": "Loyola MD"
+    "kpom_name": "Loyola MD",
+    "bm_name": null
 }, {
     "name": "Loyola Marymount",
     "bpi_name": "Loyola Mary",
-    "kpom_name": "Loyola Marymount"
+    "kpom_name": "Loyola Marymount",
+    "bm_name": null
 }, {
     "name": "Maine",
     "bpi_name": "Maine",
-    "kpom_name": "Maine"
+    "kpom_name": "Maine",
+    "bm_name": null
 }, {
     "name": "Manhattan",
     "bpi_name": "Manhattan",
-    "kpom_name": "Manhattan"
+    "kpom_name": "Manhattan",
+    "bm_name": "Manhattan"
 }, {
     "name": "Marist",
     "bpi_name": "Marist",
-    "kpom_name": "Marist"
+    "kpom_name": "Marist",
+    "bm_name": null
 }, {
     "name": "Marquette",
     "bpi_name": "Marquette",
-    "kpom_name": "Marquette"
+    "kpom_name": "Marquette",
+    "bm_name": null
 }, {
     "name": "Marshall",
     "bpi_name": "Marshall",
-    "kpom_name": "Marshall"
+    "kpom_name": "Marshall",
+    "bm_name": null
 }, {
     "name": "Maryland",
     "bpi_name": "Maryland",
-    "kpom_name": "Maryland"
+    "kpom_name": "Maryland",
+    "bm_name": null
 }, {
     "name": "Maryland Eastern Shore",
     "bpi_name": "MD-E Shore",
-    "kpom_name": "Maryland Eastern Shore"
+    "kpom_name": "Maryland Eastern Shore",
+    "bm_name": null
 }, {
     "name": "Massachusetts",
     "bpi_name": "Massachusetts",
-    "kpom_name": "Massachusetts"
+    "kpom_name": "Massachusetts",
+    "bm_name": "Massachusetts"
 }, {
     "name": "McNeese St.",
     "bpi_name": "McNeese State",
-    "kpom_name": "McNeese St."
+    "kpom_name": "McNeese St.",
+    "bm_name": null
 }, {
     "name": "Memphis",
     "bpi_name": "Memphis",
-    "kpom_name": "Memphis"
+    "kpom_name": "Memphis",
+    "bm_name": "Memphis"
 }, {
     "name": "Mercer",
     "bpi_name": "Mercer",
-    "kpom_name": "Mercer"
+    "kpom_name": "Mercer",
+    "bm_name": "Mercer"
 }, {
     "name": "Miami FL",
     "bpi_name": "Miami (FL)",
-    "kpom_name": "Miami FL"
+    "kpom_name": "Miami FL",
+    "bm_name": null
 }, {
     "name": "Miami OH",
     "bpi_name": "Miami (OH)",
-    "kpom_name": "Miami OH"
+    "kpom_name": "Miami OH",
+    "bm_name": null
 }, {
     "name": "Michigan",
     "bpi_name": "Michigan",
-    "kpom_name": "Michigan"
+    "kpom_name": "Michigan",
+    "bm_name": "Michigan"
 }, {
     "name": "Michigan St.",
     "bpi_name": "Michigan State",
-    "kpom_name": "Michigan St."
+    "kpom_name": "Michigan St.",
+    "bm_name": "Michigan State"
 }, {
     "name": "Middle Tennessee",
     "bpi_name": "Middle Tennessee",
-    "kpom_name": "Middle Tennessee"
+    "kpom_name": "Middle Tennessee",
+    "bm_name": null
 }, {
     "name": "Milwaukee",
     "bpi_name": "Milwaukee",
-    "kpom_name": "Milwaukee"
+    "kpom_name": "Milwaukee",
+    "bm_name": "Wisconsin-Milwaukee"
 }, {
     "name": "Minnesota",
     "bpi_name": "Minnesota",
-    "kpom_name": "Minnesota"
+    "kpom_name": "Minnesota",
+    "bm_name": "Minnesota"
 }, {
     "name": "Mississippi",
     "bpi_name": "Ole Miss",
-    "kpom_name": "Mississippi"
+    "kpom_name": "Mississippi",
+    "bm_name": null
 }, {
     "name": "Mississippi St.",
     "bpi_name": "Mississippi St",
-    "kpom_name": "Mississippi St."
+    "kpom_name": "Mississippi St.",
+    "bm_name": null
 }, {
     "name": "Mississippi Valley St.",
     "bpi_name": "Miss Valley St",
-    "kpom_name": "Mississippi Valley St."
+    "kpom_name": "Mississippi Valley St.",
+    "bm_name": null
 }, {
     "name": "Missouri",
     "bpi_name": "Missouri",
-    "kpom_name": "Missouri"
+    "kpom_name": "Missouri",
+    "bm_name": "Missouri"
 }, {
     "name": "Missouri St.",
     "bpi_name": "Missouri State",
-    "kpom_name": "Missouri St."
+    "kpom_name": "Missouri St.",
+    "bm_name": null
 }, {
     "name": "Monmouth",
     "bpi_name": "Monmouth",
-    "kpom_name": "Monmouth"
+    "kpom_name": "Monmouth",
+    "bm_name": null
 }, {
     "name": "Montana",
     "bpi_name": "Montana",
-    "kpom_name": "Montana"
+    "kpom_name": "Montana",
+    "bm_name": null
 }, {
     "name": "Montana St.",
     "bpi_name": "Montana State",
-    "kpom_name": "Montana St."
+    "kpom_name": "Montana St.",
+    "bm_name": null
 }, {
     "name": "Morehead St.",
     "bpi_name": "Morehead State",
-    "kpom_name": "Morehead St."
+    "kpom_name": "Morehead St.",
+    "bm_name": null
 }, {
     "name": "Morgan St.",
     "bpi_name": "Morgan State",
-    "kpom_name": "Morgan St."
+    "kpom_name": "Morgan St.",
+    "bm_name": null
 }, {
     "name": "Mount St. Mary's",
     "bpi_name": "Mount St Mary's",
-    "kpom_name": "Mount St. Mary's"
+    "kpom_name": "Mount St. Mary's",
+    "bm_name": "Mount St. Mary's"
 }, {
     "name": "Murray St.",
     "bpi_name": "Murray State",
-    "kpom_name": "Murray St."
+    "kpom_name": "Murray St.",
+    "bm_name": null
 }, {
     "name": "NJIT",
     "bpi_name": "N.J.I.T.",
-    "kpom_name": "NJIT"
+    "kpom_name": "NJIT",
+    "bm_name": null
 }, {
     "name": "Navy",
     "bpi_name": "Navy",
-    "kpom_name": "Navy"
+    "kpom_name": "Navy",
+    "bm_name": null
 }, {
     "name": "Nebraska",
     "bpi_name": "Nebraska",
-    "kpom_name": "Nebraska"
+    "kpom_name": "Nebraska",
+    "bm_name": "Nebraska"
 }, {
     "name": "Nebraska Omaha",
     "bpi_name": "Omaha",
-    "kpom_name": "Nebraska Omaha"
+    "kpom_name": "Nebraska Omaha",
+    "bm_name": null
 }, {
     "name": "Nevada",
     "bpi_name": "Nevada",
-    "kpom_name": "Nevada"
+    "kpom_name": "Nevada",
+    "bm_name": null
 }, {
     "name": "New Hampshire",
     "bpi_name": "New Hampshire",
-    "kpom_name": "New Hampshire"
+    "kpom_name": "New Hampshire",
+    "bm_name": null
 }, {
     "name": "New Mexico",
     "bpi_name": "New Mexico",
-    "kpom_name": "New Mexico"
+    "kpom_name": "New Mexico",
+    "bm_name": "New Mexico"
 }, {
     "name": "New Mexico St.",
     "bpi_name": "New Mexico St",
-    "kpom_name": "New Mexico St."
+    "kpom_name": "New Mexico St.",
+    "bm_name": "New Mexico State"
 }, {
     "name": "New Orleans",
     "bpi_name": "New Orleans",
-    "kpom_name": "New Orleans"
+    "kpom_name": "New Orleans",
+    "bm_name": null
 }, {
     "name": "Niagara",
     "bpi_name": "Niagara",
-    "kpom_name": "Niagara"
+    "kpom_name": "Niagara",
+    "bm_name": null
 }, {
     "name": "Nicholls St.",
     "bpi_name": "Nicholls State",
-    "kpom_name": "Nicholls St."
+    "kpom_name": "Nicholls St.",
+    "bm_name": null
 }, {
     "name": "Norfolk St.",
     "bpi_name": "Norfolk State",
-    "kpom_name": "Norfolk St."
+    "kpom_name": "Norfolk St.",
+    "bm_name": null
 }, {
     "name": "North Carolina",
     "bpi_name": "North Carolina",
-    "kpom_name": "North Carolina"
+    "kpom_name": "North Carolina",
+    "bm_name": "North Carolina"
 }, {
     "name": "North Carolina A&T",
     "bpi_name": "N Carolina A&T",
-    "kpom_name": "North Carolina A&T"
+    "kpom_name": "North Carolina A&T",
+    "bm_name": null
 }, {
     "name": "North Carolina Central",
     "bpi_name": "N Carolina Cent",
-    "kpom_name": "North Carolina Central"
+    "kpom_name": "North Carolina Central",
+    "bm_name": "North Carolina Central"
 }, {
     "name": "North Carolina St.",
     "bpi_name": "NC State",
-    "kpom_name": "North Carolina St."
+    "kpom_name": "North Carolina St.",
+    "bm_name": "North Carolina State"
 }, {
     "name": "North Dakota",
     "bpi_name": "North Dakota",
-    "kpom_name": "North Dakota"
+    "kpom_name": "North Dakota",
+    "bm_name": null
 }, {
     "name": "North Dakota St.",
     "bpi_name": "North Dakota St",
-    "kpom_name": "North Dakota St."
+    "kpom_name": "North Dakota St.",
+    "bm_name": "North Dakota State"
 }, {
     "name": "North Florida",
     "bpi_name": "North Florida",
-    "kpom_name": "North Florida"
+    "kpom_name": "North Florida",
+    "bm_name": null
 }, {
     "name": "North Texas",
     "bpi_name": "North Texas",
-    "kpom_name": "North Texas"
+    "kpom_name": "North Texas",
+    "bm_name": null
 }, {
     "name": "Northeastern",
     "bpi_name": "Northeastern",
-    "kpom_name": "Northeastern"
+    "kpom_name": "Northeastern",
+    "bm_name": null
 }, {
     "name": "Northern Arizona",
     "bpi_name": "N Arizona",
-    "kpom_name": "Northern Arizona"
+    "kpom_name": "Northern Arizona",
+    "bm_name": null
 }, {
     "name": "Northern Colorado",
     "bpi_name": "N Colorado",
-    "kpom_name": "Northern Colorado"
+    "kpom_name": "Northern Colorado",
+    "bm_name": null
 }, {
     "name": "Northern Illinois",
     "bpi_name": "N Illinois",
-    "kpom_name": "Northern Illinois"
+    "kpom_name": "Northern Illinois",
+    "bm_name": null
 }, {
     "name": "Northern Iowa",
     "bpi_name": "Northern Iowa",
-    "kpom_name": "Northern Iowa"
+    "kpom_name": "Northern Iowa",
+    "bm_name": null
 }, {
     "name": "Northern Kentucky",
     "bpi_name": "NKU",
-    "kpom_name": "Northern Kentucky"
+    "kpom_name": "Northern Kentucky",
+    "bm_name": null
 }, {
     "name": "Northwestern",
     "bpi_name": "Northwestern",
-    "kpom_name": "Northwestern"
+    "kpom_name": "Northwestern",
+    "bm_name": null
 }, {
     "name": "Northwestern St.",
     "bpi_name": "Northwestern St",
-    "kpom_name": "Northwestern St."
+    "kpom_name": "Northwestern St.",
+    "bm_name": null
 }, {
     "name": "Notre Dame",
     "bpi_name": "Notre Dame",
-    "kpom_name": "Notre Dame"
+    "kpom_name": "Notre Dame",
+    "bm_name": null
 }, {
     "name": "Oakland",
     "bpi_name": "Oakland",
-    "kpom_name": "Oakland"
+    "kpom_name": "Oakland",
+    "bm_name": null
 }, {
     "name": "Ohio",
     "bpi_name": "Ohio",
-    "kpom_name": "Ohio"
+    "kpom_name": "Ohio",
+    "bm_name": null
 }, {
     "name": "Ohio St.",
     "bpi_name": "Ohio State",
-    "kpom_name": "Ohio St."
+    "kpom_name": "Ohio St.",
+    "bm_name": "Ohio State"
 }, {
     "name": "Oklahoma",
     "bpi_name": "Oklahoma",
-    "kpom_name": "Oklahoma"
+    "kpom_name": "Oklahoma",
+    "bm_name": "Oklahoma"
 }, {
     "name": "Oklahoma St.",
     "bpi_name": "Oklahoma State",
-    "kpom_name": "Oklahoma St."
+    "kpom_name": "Oklahoma St.",
+    "bm_name": "Oklahoma State"
 }, {
     "name": "Old Dominion",
     "bpi_name": "Old Dominion",
-    "kpom_name": "Old Dominion"
+    "kpom_name": "Old Dominion",
+    "bm_name": null
 }, {
     "name": "Oral Roberts",
     "bpi_name": "Oral Roberts",
-    "kpom_name": "Oral Roberts"
+    "kpom_name": "Oral Roberts",
+    "bm_name": null
 }, {
     "name": "Oregon",
     "bpi_name": "Oregon",
-    "kpom_name": "Oregon"
+    "kpom_name": "Oregon",
+    "bm_name": "Oregon"
 }, {
     "name": "Oregon St.",
     "bpi_name": "Oregon State",
-    "kpom_name": "Oregon St."
+    "kpom_name": "Oregon St.",
+    "bm_name": null
 }, {
     "name": "Pacific",
     "bpi_name": "Pacific",
-    "kpom_name": "Pacific"
+    "kpom_name": "Pacific",
+    "bm_name": null
 }, {
     "name": "Penn",
     "bpi_name": "Pennsylvania",
-    "kpom_name": "Penn"
+    "kpom_name": "Penn",
+    "bm_name": null
 }, {
     "name": "Penn St.",
     "bpi_name": "Penn State",
-    "kpom_name": "Penn St."
+    "kpom_name": "Penn St.",
+    "bm_name": null
 }, {
     "name": "Pepperdine",
     "bpi_name": "Pepperdine",
-    "kpom_name": "Pepperdine"
+    "kpom_name": "Pepperdine",
+    "bm_name": null
 }, {
     "name": "Pittsburgh",
     "bpi_name": "Pittsburgh",
-    "kpom_name": "Pittsburgh"
+    "kpom_name": "Pittsburgh",
+    "bm_name": "Pittsburgh"
 }, {
     "name": "Portland",
     "bpi_name": "Portland",
-    "kpom_name": "Portland"
+    "kpom_name": "Portland",
+    "bm_name": null
 }, {
     "name": "Portland St.",
     "bpi_name": "Portland State",
-    "kpom_name": "Portland St."
+    "kpom_name": "Portland St.",
+    "bm_name": null
 }, {
     "name": "Prairie View A&M",
     "bpi_name": "PV A&M",
-    "kpom_name": "Prairie View A&M"
+    "kpom_name": "Prairie View A&M",
+    "bm_name": null
 }, {
     "name": "Presbyterian",
     "bpi_name": "Presbyterian",
-    "kpom_name": "Presbyterian"
+    "kpom_name": "Presbyterian",
+    "bm_name": null
 }, {
     "name": "Princeton",
     "bpi_name": "Princeton",
-    "kpom_name": "Princeton"
+    "kpom_name": "Princeton",
+    "bm_name": null
 }, {
     "name": "Providence",
     "bpi_name": "Providence",
-    "kpom_name": "Providence"
+    "kpom_name": "Providence",
+    "bm_name": "Providence"
 }, {
     "name": "Purdue",
     "bpi_name": "Purdue",
-    "kpom_name": "Purdue"
+    "kpom_name": "Purdue",
+    "bm_name": null
 }, {
     "name": "Quinnipiac",
     "bpi_name": "Quinnipiac",
-    "kpom_name": "Quinnipiac"
+    "kpom_name": "Quinnipiac",
+    "bm_name": null
 }, {
     "name": "Radford",
     "bpi_name": "Radford",
-    "kpom_name": "Radford"
+    "kpom_name": "Radford",
+    "bm_name": null
 }, {
     "name": "Rhode Island",
     "bpi_name": "Rhode Island",
-    "kpom_name": "Rhode Island"
+    "kpom_name": "Rhode Island",
+    "bm_name": null
 }, {
     "name": "Rice",
     "bpi_name": "Rice",
-    "kpom_name": "Rice"
+    "kpom_name": "Rice",
+    "bm_name": null
 }, {
     "name": "Richmond",
     "bpi_name": "Richmond",
-    "kpom_name": "Richmond"
+    "kpom_name": "Richmond",
+    "bm_name": null
 }, {
     "name": "Rider",
     "bpi_name": "Rider",
-    "kpom_name": "Rider"
+    "kpom_name": "Rider",
+    "bm_name": null
 }, {
     "name": "Robert Morris",
     "bpi_name": "Robert Morris",
-    "kpom_name": "Robert Morris"
+    "kpom_name": "Robert Morris",
+    "bm_name": null
 }, {
     "name": "Rutgers",
     "bpi_name": "Rutgers",
-    "kpom_name": "Rutgers"
+    "kpom_name": "Rutgers",
+    "bm_name": null
 }, {
     "name": "SIU Edwardsville",
     "bpi_name": "SIU Edwardsville",
-    "kpom_name": "SIU Edwardsville"
+    "kpom_name": "SIU Edwardsville",
+    "bm_name": null
 }, {
     "name": "SMU",
     "bpi_name": "SMU",
-    "kpom_name": "SMU"
+    "kpom_name": "SMU",
+    "bm_name": null
 }, {
     "name": "Sacramento St.",
     "bpi_name": "Sacramento St",
-    "kpom_name": "Sacramento St."
+    "kpom_name": "Sacramento St.",
+    "bm_name": null
 }, {
     "name": "Sacred Heart",
     "bpi_name": "Sacred Heart",
-    "kpom_name": "Sacred Heart"
+    "kpom_name": "Sacred Heart",
+    "bm_name": null
 }, {
     "name": "Saint Joseph's",
     "bpi_name": "Saint Joseph's",
-    "kpom_name": "Saint Joseph's"
+    "kpom_name": "Saint Joseph's",
+    "bm_name": "St. Joseph's"
 }, {
     "name": "Saint Louis",
     "bpi_name": "Saint Louis",
-    "kpom_name": "Saint Louis"
+    "kpom_name": "Saint Louis",
+    "bm_name": "Saint Louis"
 }, {
     "name": "Saint Mary's",
     "bpi_name": "Saint Mary's",
-    "kpom_name": "Saint Mary's"
+    "kpom_name": "Saint Mary's",
+    "bm_name": null
 }, {
     "name": "Saint Peter's",
     "bpi_name": "St. Peter's",
-    "kpom_name": "Saint Peter's"
+    "kpom_name": "Saint Peter's",
+    "bm_name": null
 }, {
     "name": "Sam Houston St.",
     "bpi_name": "Sam Houston",
-    "kpom_name": "Sam Houston St."
+    "kpom_name": "Sam Houston St.",
+    "bm_name": null
 }, {
     "name": "Samford",
     "bpi_name": "Samford",
-    "kpom_name": "Samford"
+    "kpom_name": "Samford",
+    "bm_name": null
 }, {
     "name": "San Diego",
     "bpi_name": "San Diego",
-    "kpom_name": "San Diego"
+    "kpom_name": "San Diego",
+    "bm_name": null
 }, {
     "name": "San Diego St.",
     "bpi_name": "San Diego State",
-    "kpom_name": "San Diego St."
+    "kpom_name": "San Diego St.",
+    "bm_name": "San Diego State"
 }, {
     "name": "San Francisco",
     "bpi_name": "San Francisco",
-    "kpom_name": "San Francisco"
+    "kpom_name": "San Francisco",
+    "bm_name": null
 }, {
     "name": "San Jose St.",
     "bpi_name": "San Jose State",
-    "kpom_name": "San Jose St."
+    "kpom_name": "San Jose St.",
+    "bm_name": null
 }, {
     "name": "Santa Clara",
     "bpi_name": "Santa Clara",
-    "kpom_name": "Santa Clara"
+    "kpom_name": "Santa Clara",
+    "bm_name": null
 }, {
     "name": "Savannah St.",
     "bpi_name": "Savannah State",
-    "kpom_name": "Savannah St."
+    "kpom_name": "Savannah St.",
+    "bm_name": null
 }, {
     "name": "Seattle",
     "bpi_name": "Seattle U",
-    "kpom_name": "Seattle"
+    "kpom_name": "Seattle",
+    "bm_name": null
 }, {
     "name": "Seton Hall",
     "bpi_name": "Seton Hall",
-    "kpom_name": "Seton Hall"
+    "kpom_name": "Seton Hall",
+    "bm_name": null
 }, {
     "name": "Siena",
     "bpi_name": "Siena",
-    "kpom_name": "Siena"
+    "kpom_name": "Siena",
+    "bm_name": null
 }, {
     "name": "South Alabama",
     "bpi_name": "South Alabama",
-    "kpom_name": "South Alabama"
+    "kpom_name": "South Alabama",
+    "bm_name": null
 }, {
     "name": "South Carolina",
     "bpi_name": "South Carolina",
-    "kpom_name": "South Carolina"
+    "kpom_name": "South Carolina",
+    "bm_name": null
 }, {
     "name": "South Carolina St.",
     "bpi_name": "S Carolina St",
-    "kpom_name": "South Carolina St."
+    "kpom_name": "South Carolina St.",
+    "bm_name": null
 }, {
     "name": "South Dakota",
     "bpi_name": "South Dakota",
-    "kpom_name": "South Dakota"
+    "kpom_name": "South Dakota",
+    "bm_name": null
 }, {
     "name": "South Dakota St.",
     "bpi_name": "South Dakota St",
-    "kpom_name": "South Dakota St."
+    "kpom_name": "South Dakota St.",
+    "bm_name": null
 }, {
     "name": "South Florida",
     "bpi_name": "South Florida",
-    "kpom_name": "South Florida"
+    "kpom_name": "South Florida",
+    "bm_name": null
 }, {
     "name": "Southeast Missouri St.",
     "bpi_name": "SE Missouri St",
-    "kpom_name": "Southeast Missouri St."
+    "kpom_name": "Southeast Missouri St.",
+    "bm_name": null
 }, {
     "name": "Southeastern Louisiana",
     "bpi_name": "SE Louisiana",
-    "kpom_name": "Southeastern Louisiana"
+    "kpom_name": "Southeastern Louisiana",
+    "bm_name": null
 }, {
     "name": "Southern",
     "bpi_name": "Southern",
-    "kpom_name": "Southern"
+    "kpom_name": "Southern",
+    "bm_name": null
 }, {
     "name": "Southern Illinois",
     "bpi_name": "S Illinois",
-    "kpom_name": "Southern Illinois"
+    "kpom_name": "Southern Illinois",
+    "bm_name": null
 }, {
     "name": "Southern Miss",
     "bpi_name": "Southern Miss",
-    "kpom_name": "Southern Miss"
+    "kpom_name": "Southern Miss",
+    "bm_name": "Southern Miss"
 }, {
     "name": "Southern Utah",
     "bpi_name": "Southern Utah",
-    "kpom_name": "Southern Utah"
+    "kpom_name": "Southern Utah",
+    "bm_name": null
 }, {
     "name": "St. Bonaventure",
     "bpi_name": "St. Bonaventure",
-    "kpom_name": "St. Bonaventure"
+    "kpom_name": "St. Bonaventure",
+    "bm_name": null
 }, {
     "name": "St. Francis NY",
     "bpi_name": "St Francis (NY)",
-    "kpom_name": "St. Francis NY"
+    "kpom_name": "St. Francis NY",
+    "bm_name": null
 }, {
     "name": "St. Francis PA",
     "bpi_name": "St Francis (PA)",
-    "kpom_name": "St. Francis PA"
+    "kpom_name": "St. Francis PA",
+    "bm_name": null
 }, {
     "name": "St. John's",
     "bpi_name": "St. John's",
-    "kpom_name": "St. John's"
+    "kpom_name": "St. John's",
+    "bm_name": "St. John's"
 }, {
     "name": "Stanford",
     "bpi_name": "Stanford",
-    "kpom_name": "Stanford"
+    "kpom_name": "Stanford",
+    "bm_name": "Stanford"
 }, {
     "name": "Stephen F. Austin",
     "bpi_name": "SF Austin",
-    "kpom_name": "Stephen F. Austin"
+    "kpom_name": "Stephen F. Austin",
+    "bm_name": "Stephen F. Austin"
 }, {
     "name": "Stetson",
     "bpi_name": "Stetson",
-    "kpom_name": "Stetson"
+    "kpom_name": "Stetson",
+    "bm_name": null
 }, {
     "name": "Stony Brook",
     "bpi_name": "Stony Brook",
-    "kpom_name": "Stony Brook"
+    "kpom_name": "Stony Brook",
+    "bm_name": null
 }, {
     "name": "Syracuse",
     "bpi_name": "Syracuse",
-    "kpom_name": "Syracuse"
+    "kpom_name": "Syracuse",
+    "bm_name": "Syracuse"
 }, {
     "name": "TCU",
     "bpi_name": "TCU",
-    "kpom_name": "TCU"
+    "kpom_name": "TCU",
+    "bm_name": null
 }, {
     "name": "Temple",
     "bpi_name": "Temple",
-    "kpom_name": "Temple"
+    "kpom_name": "Temple",
+    "bm_name": null
 }, {
     "name": "Tennessee",
     "bpi_name": "Tennessee",
-    "kpom_name": "Tennessee"
+    "kpom_name": "Tennessee",
+    "bm_name": "Tennessee"
 }, {
     "name": "Tennessee Martin",
     "bpi_name": "UT Martin",
-    "kpom_name": "Tennessee Martin"
+    "kpom_name": "Tennessee Martin",
+    "bm_name": null
 }, {
     "name": "Tennessee St.",
     "bpi_name": "Tenn St",
-    "kpom_name": "Tennessee St."
+    "kpom_name": "Tennessee St.",
+    "bm_name": null
 }, {
     "name": "Tennessee Tech",
     "bpi_name": "Tenn Tech",
-    "kpom_name": "Tennessee Tech"
+    "kpom_name": "Tennessee Tech",
+    "bm_name": null
 }, {
     "name": "Texas",
     "bpi_name": "Texas",
-    "kpom_name": "Texas"
+    "kpom_name": "Texas",
+    "bm_name": "Texas"
 }, {
     "name": "Texas A&M",
     "bpi_name": "Texas A&M",
-    "kpom_name": "Texas A&M"
+    "kpom_name": "Texas A&M",
+    "bm_name": null
 }, {
     "name": "Texas A&M Corpus Chris",
     "bpi_name": "Texas A&M-CC",
-    "kpom_name": "Texas A&M Corpus Chris"
+    "kpom_name": "Texas A&M Corpus Chris",
+    "bm_name": null
 }, {
     "name": "Texas Pan American",
     "bpi_name": "TX-Pan American",
-    "kpom_name": "Texas Pan American"
+    "kpom_name": "Texas Pan American",
+    "bm_name": null
 }, {
     "name": "Texas Southern",
     "bpi_name": "Texas Southern",
-    "kpom_name": "Texas Southern"
+    "kpom_name": "Texas Southern",
+    "bm_name": "Texas Southern"
 }, {
     "name": "Texas St.",
     "bpi_name": "Texas State",
-    "kpom_name": "Texas St."
+    "kpom_name": "Texas St.",
+    "bm_name": null
 }, {
     "name": "Texas Tech",
     "bpi_name": "Texas Tech",
-    "kpom_name": "Texas Tech"
+    "kpom_name": "Texas Tech",
+    "bm_name": null
 }, {
     "name": "The Citadel",
     "bpi_name": "The Citadel",
-    "kpom_name": "The Citadel"
+    "kpom_name": "The Citadel",
+    "bm_name": null
 }, {
     "name": "Toledo",
     "bpi_name": "Toledo",
-    "kpom_name": "Toledo"
+    "kpom_name": "Toledo",
+    "bm_name": "Toledo"
 }, {
     "name": "Towson",
     "bpi_name": "Towson",
-    "kpom_name": "Towson"
+    "kpom_name": "Towson",
+    "bm_name": null
 }, {
     "name": "Troy",
     "bpi_name": "Troy",
-    "kpom_name": "Troy"
+    "kpom_name": "Troy",
+    "bm_name": null
 }, {
     "name": "Tulane",
     "bpi_name": "Tulane",
-    "kpom_name": "Tulane"
+    "kpom_name": "Tulane",
+    "bm_name": null
 }, {
     "name": "Tulsa",
     "bpi_name": "Tulsa",
-    "kpom_name": "Tulsa"
+    "kpom_name": "Tulsa",
+    "bm_name": "Tulsa"
 }, {
     "name": "UAB",
     "bpi_name": "UAB",
-    "kpom_name": "UAB"
+    "kpom_name": "UAB",
+    "bm_name": null
 }, {
     "name": "UC Davis",
     "bpi_name": "UC Davis",
-    "kpom_name": "UC Davis"
+    "kpom_name": "UC Davis",
+    "bm_name": null
 }, {
     "name": "UC Irvine",
     "bpi_name": "UC Irvine",
-    "kpom_name": "UC Irvine"
+    "kpom_name": "UC Irvine",
+    "bm_name": null
 }, {
     "name": "UC Riverside",
     "bpi_name": "UC Riverside",
-    "kpom_name": "UC Riverside"
+    "kpom_name": "UC Riverside",
+    "bm_name": null
 }, {
     "name": "UC Santa Barbara",
     "bpi_name": "UC Santa Barbara",
-    "kpom_name": "UC Santa Barbara"
+    "kpom_name": "UC Santa Barbara",
+    "bm_name": null
 }, {
     "name": "UCF",
     "bpi_name": "UCF",
-    "kpom_name": "UCF"
+    "kpom_name": "UCF",
+    "bm_name": null
 }, {
     "name": "UCLA",
     "bpi_name": "UCLA",
-    "kpom_name": "UCLA"
+    "kpom_name": "UCLA",
+    "bm_name": "UCLA"
 }, {
     "name": "UIC",
     "bpi_name": "UIC",
-    "kpom_name": "Illinois Chicago"
+    "kpom_name": "Illinois Chicago",
+    "bm_name": null
 }, {
     "name": "UMBC",
     "bpi_name": "UMBC",
-    "kpom_name": "UMBC"
+    "kpom_name": "UMBC",
+    "bm_name": null
 }, {
     "name": "UMKC",
     "bpi_name": "UMKC",
-    "kpom_name": "UMKC"
+    "kpom_name": "UMKC",
+    "bm_name": null
 }, {
     "name": "UMass Lowell",
     "bpi_name": "UMass Lowell",
-    "kpom_name": "UMass Lowell"
+    "kpom_name": "UMass Lowell",
+    "bm_name": null
 }, {
     "name": "UNC Asheville",
     "bpi_name": "UNC Asheville",
-    "kpom_name": "UNC Asheville"
+    "kpom_name": "UNC Asheville",
+    "bm_name": null
 }, {
     "name": "UNC Greensboro",
     "bpi_name": "UNC Greensboro",
-    "kpom_name": "UNC Greensboro"
+    "kpom_name": "UNC Greensboro",
+    "bm_name": null
 }, {
     "name": "UNC Wilmington",
     "bpi_name": "UNC-Wilmington",
-    "kpom_name": "UNC Wilmington"
+    "kpom_name": "UNC Wilmington",
+    "bm_name": null
 }, {
     "name": "UNLV",
     "bpi_name": "UNLV",
-    "kpom_name": "UNLV"
+    "kpom_name": "UNLV",
+    "bm_name": null
 }, {
     "name": "USC",
     "bpi_name": "USC",
-    "kpom_name": "USC"
+    "kpom_name": "USC",
+    "bm_name": null
 }, {
     "name": "USC Upstate",
     "bpi_name": "USC Upstate",
-    "kpom_name": "USC Upstate"
+    "kpom_name": "USC Upstate",
+    "bm_name": null
 }, {
     "name": "UT Arlington",
     "bpi_name": "TX-Arlington",
-    "kpom_name": "UT Arlington"
+    "kpom_name": "UT Arlington",
+    "bm_name": null
 }, {
     "name": "UTEP",
     "bpi_name": "UTEP",
-    "kpom_name": "UTEP"
+    "kpom_name": "UTEP",
+    "bm_name": null
 }, {
     "name": "UTSA",
     "bpi_name": "UTSA",
-    "kpom_name": "UTSA"
+    "kpom_name": "UTSA",
+    "bm_name": null
 }, {
     "name": "Utah",
     "bpi_name": "Utah",
-    "kpom_name": "Utah"
+    "kpom_name": "Utah",
+    "bm_name": null
 }, {
     "name": "Utah St.",
     "bpi_name": "Utah State",
-    "kpom_name": "Utah St."
+    "kpom_name": "Utah St.",
+    "bm_name": null
 }, {
     "name": "Utah Valley",
     "bpi_name": "Utah Valley",
-    "kpom_name": "Utah Valley"
+    "kpom_name": "Utah Valley",
+    "bm_name": null
 }, {
     "name": "VCU",
     "bpi_name": "VCU",
-    "kpom_name": "VCU"
+    "kpom_name": "VCU",
+    "bm_name": "Virginia Commonwealth"
 }, {
     "name": "VMI",
     "bpi_name": "VMI",
-    "kpom_name": "VMI"
+    "kpom_name": "VMI",
+    "bm_name": null
 }, {
     "name": "Valparaiso",
     "bpi_name": "Valparaiso",
-    "kpom_name": "Valparaiso"
+    "kpom_name": "Valparaiso",
+    "bm_name": null
 }, {
     "name": "Vanderbilt",
     "bpi_name": "Vanderbilt",
-    "kpom_name": "Vanderbilt"
+    "kpom_name": "Vanderbilt",
+    "bm_name": null
 }, {
     "name": "Vermont",
     "bpi_name": "Vermont",
-    "kpom_name": "Vermont"
+    "kpom_name": "Vermont",
+    "bm_name": null
 }, {
     "name": "Villanova",
     "bpi_name": "Villanova",
-    "kpom_name": "Villanova"
+    "kpom_name": "Villanova",
+    "bm_name": "Villanova"
 }, {
     "name": "Virginia",
     "bpi_name": "Virginia",
-    "kpom_name": "Virginia"
+    "kpom_name": "Virginia",
+    "bm_name": "Virginia"
 }, {
     "name": "Virginia Tech",
     "bpi_name": "Virginia Tech",
-    "kpom_name": "Virginia Tech"
+    "kpom_name": "Virginia Tech",
+    "bm_name": null
 }, {
     "name": "Wagner",
     "bpi_name": "Wagner",
-    "kpom_name": "Wagner"
+    "kpom_name": "Wagner",
+    "bm_name": null
 }, {
     "name": "Wake Forest",
     "bpi_name": "Wake Forest",
-    "kpom_name": "Wake Forest"
+    "kpom_name": "Wake Forest",
+    "bm_name": null
 }, {
     "name": "Washington",
     "bpi_name": "Washington",
-    "kpom_name": "Washington"
+    "kpom_name": "Washington",
+    "bm_name": null
 }, {
     "name": "Washington St.",
     "bpi_name": "Washington St",
-    "kpom_name": "Washington St."
+    "kpom_name": "Washington St.",
+    "bm_name": null
 }, {
     "name": "Weber St.",
     "bpi_name": "Weber State",
-    "kpom_name": "Weber St."
+    "kpom_name": "Weber St.",
+    "bm_name": "Weber State"
 }, {
     "name": "West Virginia",
     "bpi_name": "West Virginia",
-    "kpom_name": "West Virginia"
+    "kpom_name": "West Virginia",
+    "bm_name": null
 }, {
     "name": "Western Carolina",
     "bpi_name": "W Carolina",
-    "kpom_name": "Western Carolina"
+    "kpom_name": "Western Carolina",
+    "bm_name": null
 }, {
     "name": "Western Illinois",
     "bpi_name": "W Illinois",
-    "kpom_name": "Western Illinois"
+    "kpom_name": "Western Illinois",
+    "bm_name": null
 }, {
     "name": "Western Kentucky",
     "bpi_name": "W Kentucky",
-    "kpom_name": "Western Kentucky"
+    "kpom_name": "Western Kentucky",
+    "bm_name": null
 }, {
     "name": "Western Michigan",
     "bpi_name": "W Michigan",
-    "kpom_name": "Western Michigan"
+    "kpom_name": "Western Michigan",
+    "bm_name": "Western Michigan"
 }, {
     "name": "Wichita St.",
     "bpi_name": "Wichita State",
-    "kpom_name": "Wichita St."
+    "kpom_name": "Wichita St.",
+    "bm_name": "Wichita State"
 }, {
     "name": "William & Mary",
     "bpi_name": "William & Mary",
-    "kpom_name": "William & Mary"
+    "kpom_name": "William & Mary",
+    "bm_name": null
 }, {
     "name": "Winthrop",
     "bpi_name": "Winthrop",
-    "kpom_name": "Winthrop"
+    "kpom_name": "Winthrop",
+    "bm_name": null
 }, {
     "name": "Wisconsin",
     "bpi_name": "Wisconsin",
-    "kpom_name": "Wisconsin"
+    "kpom_name": "Wisconsin",
+    "bm_name": "Wisconsin"
 }, {
     "name": "Wofford",
     "bpi_name": "Wofford",
-    "kpom_name": "Wofford"
+    "kpom_name": "Wofford",
+    "bm_name": "Wofford"
 }, {
     "name": "Wright St.",
     "bpi_name": "Wright State",
-    "kpom_name": "Wright St."
+    "kpom_name": "Wright St.",
+    "bm_name": null
 }, {
     "name": "Wyoming",
     "bpi_name": "Wyoming",
-    "kpom_name": "Wyoming"
+    "kpom_name": "Wyoming",
+    "bm_name": null
 }, {
     "name": "Xavier",
     "bpi_name": "Xavier",
-    "kpom_name": "Xavier"
+    "kpom_name": "Xavier",
+    "bm_name": "Xavier"
 }, {
     "name": "Yale",
     "bpi_name": "Yale",
-    "kpom_name": "Yale"
+    "kpom_name": "Yale",
+    "bm_name": null
 }, {
     "name": "Youngstown St.",
     "bpi_name": "Youngstown St",
-    "kpom_name": "Youngstown St."
+    "kpom_name": "Youngstown St.",
+    "bm_name": null
 }]
