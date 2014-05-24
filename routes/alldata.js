@@ -18,19 +18,19 @@ module.exports = {
             //For now, we'll just import the existing json files. In future these should be requests.
             var bpiteams = JSON.parse(fs.readFileSync(bpidata, 'utf8'));
             var rpiteams = JSON.parse(fs.readFileSync(rpidata, 'utf8'));
-            var kenpomteams = JSON.parse(fs.readFileSync(kenpomdata, 'utf8'));
+            var kpomteams = JSON.parse(fs.readFileSync(kenpomdata, 'utf8'));
 
             newteams.forEach(function(team) {
 
                 var bpiteam = _.findWhere(bpiteams, { name: team.bpi_name} );
                 var rpiteam = _.findWhere(rpiteams, { name: team.name} );
-                //var kenpomteam = _.findWhere(kenpomteams, { name: team.kenpom_name} );
+                var kpomteam = _.findWhere(kpomteams, { name: team.kpom_name} );
 
                 var newteam = {
                     name: team.name,
                     rpi: (rpiteam ? rpiteam.rpi : null),
                     bpi: (bpiteam ? bpiteam.bpi : null),
-                    //kenpom: kenpomteam.kenpom
+                    kpom: (kpomteam ? kpomteam.kpom : null)
                 };
                 outputteams.push(newteam);
             });
