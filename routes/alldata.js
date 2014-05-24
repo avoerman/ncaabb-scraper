@@ -1,14 +1,16 @@
 var dumptojson = require('../lib/dump-to-json.js');
 var fs = require('fs');
 var _ = require('underscore');
-var allteams = './data/allteams.json';
-var bpidata = './data/bpidata.json';
-var rpidata = './data/rpidata.json';
-var kenpomdata = './data/kenpomdata.json';
-var bracketmatrixdata = './data/bracketmatrixdata.json';
 
 module.exports = {
     '/alldata': function(req, res) {
+
+        var allteams = './data/input/allteams.json';
+
+        var bpidata = './data/bpidata.json';
+        var rpidata = './data/rpidata.json';
+        var kenpomdata = './data/kenpomdata.json';
+        var bracketmatrixdata = './data/bracketmatrixdata.json';
 
         fs.readFile(allteams, 'utf8', function(err, data) {
             if (err) throw err;
