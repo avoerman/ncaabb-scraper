@@ -8,6 +8,7 @@
         "express": "latest",
         "request": "latest",
         "cheerio": "latest",
-        "express-routescan": "latest"
+        "express-routescan": "latest",
+        "underscore": "latest"
     }
 }
