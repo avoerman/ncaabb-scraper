@@ -15,13 +15,16 @@ module.exports = {
                     var tr = $(this);
                     var tds = tr.children();
 
-                    //we have to use the <td> position since theres no classes on the table
-                    //also, get the team name from the <a> tag because seeds will appear next to team
-                    team = {
-                        kpom: parseInt(tds.eq(0).text()),
-                        name: tds.children().eq(0).text()
-                    };
-                    teams.push(team);
+                    //make sure we dont return column headers
+                    if (tds.eq(0).text() && tds.eq(0).text() != 'Rank') {
+                        //we have to use the <td> position since theres no classes on the table
+                        //also, get the team name from the <a> tag because seeds will appear next to team
+                        team = {
+                            kpom: parseInt(tds.eq(0).text()),
+                            name: tds.children().eq(0).text()
+                        };
+                        teams.push(team);
+                    }
                 });
 
                 //write the data to a json file
