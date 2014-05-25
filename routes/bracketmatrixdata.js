@@ -11,13 +11,12 @@ module.exports = {
                 var $ = cheerio.load(html);
                 var team;
                 var teams = [];
-                var sixteenCount = 0;
 
                 //loop through and remove <tr> tags untill we get to first seed
                 $('tr').each(function(i, el) {
                     var tr = $(this);
                     var tds = tr.children();
-                    if (tds.eq(0).text() === "1") {
+                    if (tds.eq(0).text() === '1') {
                         return false;
                     } else {
                         $(this).remove();
@@ -28,19 +27,26 @@ module.exports = {
                 $('tr').each(function(i, el) {
                     var tr = $(this);
                     var tds = tr.children();
-                    var seed = parseInt(tds.eq(0).text());
-                    var avgseed = parseFloat(tds.eq(3).text());
-                    team = {
-                        bm_seed: seed,
-                        bm_avgseed: avgseed,
-                        name: tds.eq(1).text()
-                    };
-                    teams.push(team);
+                    var name = tds.eq(1).text();
 
-                    //For now, go until we get to the last 16 seed.
-                    //In the future, we want to grab the rest of the teams.
-                    if (seed === 16) sixteenCount++;
-                    if (sixteenCount > 5) return false;
+                    //Break at the end of the grid
+                    if(!name) return false;
+
+                    //Skip this record
+                    if (tds.eq(1).text() != 'OTHERS RECEIVING VOTES') {
+
+                        var seed = parseInt(tds.eq(0).text());
+                        var avgseed = parseFloat(tds.eq(3).text());
+                        var numbrackets = parseInt(tds.eq(4).text());
+                        team = {
+                            bm_seed: (seed ? seed : null),
+                            bm_avgseed: avgseed,
+                            bm_numbrackets: numbrackets,
+                            name: name
+                        };
+                        teams.push(team);
+
+                    }
                 });
 
                 //write the data to a json file

@@ -26,10 +26,18 @@ module.exports = {
 
             newteams.forEach(function(team) {
 
-                var bpiteam = _.findWhere(bpiteams, { name: team.bpi_name} );
-                var rpiteam = _.findWhere(rpiteams, { name: team.name} );
-                var kpomteam = _.findWhere(kpomteams, { name: team.kpom_name} );
-                var bmteam = (team.bm_name) ? _.findWhere(bmteams, { name: team.bm_name} ) : null;
+                var bpiteam = _.findWhere(bpiteams, {
+                    name: team.bpi_name
+                });
+                var rpiteam = _.findWhere(rpiteams, {
+                    name: team.name
+                });
+                var kpomteam = _.findWhere(kpomteams, {
+                    name: team.kpom_name
+                });
+                var bmteam = (team.bm_name) ? _.findWhere(bmteams, {
+                    name: team.bm_name
+                }) : null;
 
                 var newteam = {
                     name: team.name,
@@ -37,13 +45,29 @@ module.exports = {
                     bpi: (bpiteam ? bpiteam.bpi : null),
                     kpom: (kpomteam ? kpomteam.kpom : null),
                     bm_seed: (bmteam ? bmteam.bm_seed : null),
-                    bm_avgseed: (bmteam ? bmteam.bm_avgseed : null)
+                    bm_avgseed: (bmteam ? bmteam.bm_avgseed : null),
+                    bm_numbrackets: (bmteam ? bmteam.bm_numbrackets : null)
                 };
+
                 outputteams.push(newteam);
             });
+
+            outputteams = sortByRPIBPIKPOMAverage(outputteams);
 
             dumptojson.dump(outputteams, 'alldata.json');
             res.send(outputteams);
         });
     }
 };
+
+/* Sorts array by RPI, BPI, and KPOM average if they exist */
+function sortByRPIBPIKPOMAverage(teams) {
+    return _.sortBy(teams, function(team) {
+        var r = team.rpi ? 1 : 0;
+        var b = team.bpi ? 1 : 0;
+        var k = team.kpom ? 1 : 0;
+        var sum = r + b + k;
+        var tot = (team.rpi ? team.rpi : 0) + (team.bpi ? team.bpi : 0) + (team.kpom ? team.kpom : 0);
+        return tot / sum;
+    });
+}
