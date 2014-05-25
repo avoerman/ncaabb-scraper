@@ -29,8 +29,10 @@ module.exports = {
                     var tr = $(this);
                     var tds = tr.children();
                     var seed = parseInt(tds.eq(0).text());
+                    var avgseed = parseFloat(tds.eq(3).text());
                     team = {
                         bm_seed: seed,
+                        bm_avgseed: avgseed,
                         name: tds.eq(1).text()
                     };
                     teams.push(team);

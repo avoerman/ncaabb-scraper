@@ -36,7 +36,8 @@ module.exports = {
                     rpi: (rpiteam ? rpiteam.rpi : null),
                     bpi: (bpiteam ? bpiteam.bpi : null),
                     kpom: (kpomteam ? kpomteam.kpom : null),
-                    bm_seed: (bmteam ? bmteam.bm_seed : null)
+                    bm_seed: (bmteam ? bmteam.bm_seed : null),
+                    bm_avgseed: (bmteam ? bmteam.bm_avgseed : null)
                 };
                 outputteams.push(newteam);
             });
