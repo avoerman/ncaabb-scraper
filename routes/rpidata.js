@@ -18,14 +18,16 @@ module.exports = {
                     var tr = $(this);
                     var tds = tr.children();
 
-                    //we have to use the <td> position since theres no classes on the table
-                    team = {
-                        rpi: parseInt(tds.eq(0).text()),
-                        name: tds.eq(1).text(),
-                        conference: tds.eq(4).text(),
-                        record: tds.eq(3).text()
-                    };
-                    teams.push(team);
+                    if (tds.eq(0).text() != 'Rank') {
+                        //we have to use the <td> position since theres no classes on the table
+                        team = {
+                            rpi: parseInt(tds.eq(0).text()),
+                            name: tds.eq(1).text(),
+                            conference: tds.eq(4).text(),
+                            record: tds.eq(3).text()
+                        };
+                        teams.push(team);
+                    }
                 });
 
                 //write the data to a json file
