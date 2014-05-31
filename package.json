@@ -4,11 +4,16 @@
     "description": "Scraper for NCAA basketball",
     "main": "server.js",
     "author": "Alex Voerman",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/avoerman/ncaabb-scraper.git"
+    },
     "dependencies": {
         "express": "latest",
         "request": "latest",
         "cheerio": "latest",
         "express-routescan": "latest",
-        "underscore": "latest"
+        "underscore": "latest",
+        "async": "latest"
     }
 }
