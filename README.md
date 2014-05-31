@@ -8,6 +8,12 @@ Outputs data to /data directory on request.
 Start server on port 3000 with a simple
 
 '''node app''''
+### Scrape all data ###
+* Scrape by getting http://localhost:3000/alldata
+* By default, a data will output in a json file to '/data/alldata.json'
+* Uses data from the below sources
+
+Individual datasets can be scraped individually.
 
 ### RPI Data
 * Uses http://www.rpiforecast.com/live-rpi.html RPI Forecast Data
