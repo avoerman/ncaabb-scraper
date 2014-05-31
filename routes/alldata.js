@@ -55,6 +55,8 @@ module.exports = {
 
                     var newteam = {
                         name: team.name,
+                        record: (rpiteam ? rpiteam.record : null),
+                        conference: (rpiteam ? rpiteam.conference : null),
                         rpi: (rpiteam ? rpiteam.rpi : null),
                         bpi: (bpiteam ? bpiteam.bpi : null),
                         kpom: (kpomteam ? kpomteam.kpom : null),
