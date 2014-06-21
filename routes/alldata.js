@@ -4,6 +4,7 @@ var rpiscraper = require('../lib/scrapers/rpidata.js');
 var bpiscraper = require('../lib/scrapers/bpidata.js');
 var kpomscraper = require('../lib/scrapers/kenpomdata.js');
 var bmscraper = require('../lib/scrapers/bracketmatrixdata.js');
+var espnBtScraper = require('../lib/scrapers/espn-bracketology-data.js');
 var dumptojson = require('../lib/dump-to-json.js');
 
 var async = require('async');
@@ -23,6 +24,9 @@ module.exports = {
             },
             function(callback) {
                 bmscraper.scrape(null, callback);
+            },
+            function(callback) {
+                espnBtScraper.scrape(null, callback);
             }
         ], function(err, result) {
             var allteams = './data/input/allteams.json';
@@ -37,9 +41,9 @@ module.exports = {
                 var bpiteams = result[1];
                 var kpomteams = result[2];
                 var bmteams = result[3];
+                var espnBtTeams = result[4];
 
                 newteams.forEach(function(team) {
-
                     var bpiteam = _.findWhere(bpiteams, {
                         name: team.bpi_name
                     });
@@ -53,6 +57,10 @@ module.exports = {
                         name: team.bm_name
                     }) : null;
 
+                    var espnBtTeam = _.filter(espnBtTeams, function(fteam){
+                        return team.bpi_name.toLowerCase() === fteam.name.toLowerCase();
+                    });
+
                     var newteam = {
                         name: team.name,
                         record: (rpiteam ? rpiteam.record : null),
@@ -62,7 +70,9 @@ module.exports = {
                         kpom: (kpomteam ? kpomteam.kpom : null),
                         bm_seed: (bmteam ? bmteam.bm_seed : null),
                         bm_avgseed: (bmteam ? bmteam.bm_avgseed : null),
-                        bm_numbrackets: (bmteam ? bmteam.bm_numbrackets : null)
+                        bm_numbrackets: (bmteam ? bmteam.bm_numbrackets : null),
+                        bm_numbrackets: (bmteam ? bmteam.bm_numbrackets : null),
+                        espnBracketologySeed: (espnBtTeam.length > 0) ? espnBtTeam[0].espnBracketologySeed : null
                     };
 
                     outputteams.push(newteam);
